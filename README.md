@@ -16,7 +16,7 @@
 - 客戶消費習慣分群
 
 ## 資料分析視覺化
-- matlibplot
+- matplotlib
 - seaborn
 
 ## 資料處理套件
